@@ -1,0 +1,9 @@
+{
+  "title": "My Docs Demo",
+  "description": "一個使用 docs.page 建立的文件網站",
+  "theme": "light",
+  "favicon": "https://raw.githubusercontent.com/aaronhsu629/assets/main/favicon.ico",
+  "links": {
+    "GitHub": "https://github.com/Aaron629/my-docs-demo"
+  }
+}
